@@ -4,9 +4,9 @@ The purpose is to document my exploration of quantum computing.
 </p>
 <br/>
 <p>
-Directory adapted contains jupyter notebooks I adapted from existing examples. 
+  Directory named <i>adapted</i> contains jupyter notebooks I adapted from existing examples. 
 <br/>
-Directory original contains jupyter notebooks I wrote myself. 
+  Directory named <i>original</i> contains jupyter notebooks I wrote myself. 
 <br/>
 </p>
 <p>
